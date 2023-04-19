@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\ExamC\ExC006_\bin\Debug\net6.0\ExC006_.exe
+C:\Users\Пользователь\Desktop\ExamC\ExC006_\bin\Debug\net6.0\ExC006_.deps.json
+C:\Users\Пользователь\Desktop\ExamC\ExC006_\bin\Debug\net6.0\ExC006_.runtimeconfig.json
+C:\Users\Пользователь\Desktop\ExamC\ExC006_\bin\Debug\net6.0\ExC006_.dll
+C:\Users\Пользователь\Desktop\ExamC\ExC006_\bin\Debug\net6.0\ExC006_.pdb
+C:\Users\Пользователь\Desktop\ExamC\ExC006_\obj\Debug\net6.0\ExC006_.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC006_\obj\Debug\net6.0\ExC006_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\ExamC\ExC006_\obj\Debug\net6.0\ExC006_.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC006_\obj\Debug\net6.0\ExC006_.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\ExamC\ExC006_\obj\Debug\net6.0\ExC006_.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC006_\obj\Debug\net6.0\ExC006_.dll
+C:\Users\Пользователь\Desktop\ExamC\ExC006_\obj\Debug\net6.0\refint\ExC006_.dll
+C:\Users\Пользователь\Desktop\ExamC\ExC006_\obj\Debug\net6.0\ExC006_.pdb
+C:\Users\Пользователь\Desktop\ExamC\ExC006_\obj\Debug\net6.0\ExC006_.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC006_\obj\Debug\net6.0\ref\ExC006_.dll
