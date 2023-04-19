@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\ExamC\ExC005_ConditionIF\bin\Debug\net6.0\ExC005_ConditionIF.exe
+C:\Users\Пользователь\Desktop\ExamC\ExC005_ConditionIF\bin\Debug\net6.0\ExC005_ConditionIF.deps.json
+C:\Users\Пользователь\Desktop\ExamC\ExC005_ConditionIF\bin\Debug\net6.0\ExC005_ConditionIF.runtimeconfig.json
+C:\Users\Пользователь\Desktop\ExamC\ExC005_ConditionIF\bin\Debug\net6.0\ExC005_ConditionIF.dll
+C:\Users\Пользователь\Desktop\ExamC\ExC005_ConditionIF\bin\Debug\net6.0\ExC005_ConditionIF.pdb
+C:\Users\Пользователь\Desktop\ExamC\ExC005_ConditionIF\obj\Debug\net6.0\ExC005_ConditionIF.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC005_ConditionIF\obj\Debug\net6.0\ExC005_ConditionIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\ExamC\ExC005_ConditionIF\obj\Debug\net6.0\ExC005_ConditionIF.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC005_ConditionIF\obj\Debug\net6.0\ExC005_ConditionIF.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\ExamC\ExC005_ConditionIF\obj\Debug\net6.0\ExC005_ConditionIF.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC005_ConditionIF\obj\Debug\net6.0\ExC005_ConditionIF.dll
+C:\Users\Пользователь\Desktop\ExamC\ExC005_ConditionIF\obj\Debug\net6.0\refint\ExC005_ConditionIF.dll
+C:\Users\Пользователь\Desktop\ExamC\ExC005_ConditionIF\obj\Debug\net6.0\ExC005_ConditionIF.pdb
+C:\Users\Пользователь\Desktop\ExamC\ExC005_ConditionIF\obj\Debug\net6.0\ExC005_ConditionIF.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC005_ConditionIF\obj\Debug\net6.0\ref\ExC005_ConditionIF.dll
