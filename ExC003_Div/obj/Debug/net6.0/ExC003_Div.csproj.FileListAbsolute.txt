@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\ExamC\ExC003_Div\bin\Debug\net6.0\ExC003_Div.exe
+C:\Users\Пользователь\Desktop\ExamC\ExC003_Div\bin\Debug\net6.0\ExC003_Div.deps.json
+C:\Users\Пользователь\Desktop\ExamC\ExC003_Div\bin\Debug\net6.0\ExC003_Div.runtimeconfig.json
+C:\Users\Пользователь\Desktop\ExamC\ExC003_Div\bin\Debug\net6.0\ExC003_Div.dll
+C:\Users\Пользователь\Desktop\ExamC\ExC003_Div\bin\Debug\net6.0\ExC003_Div.pdb
+C:\Users\Пользователь\Desktop\ExamC\ExC003_Div\obj\Debug\net6.0\ExC003_Div.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC003_Div\obj\Debug\net6.0\ExC003_Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\ExamC\ExC003_Div\obj\Debug\net6.0\ExC003_Div.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC003_Div\obj\Debug\net6.0\ExC003_Div.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\ExamC\ExC003_Div\obj\Debug\net6.0\ExC003_Div.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC003_Div\obj\Debug\net6.0\ExC003_Div.dll
+C:\Users\Пользователь\Desktop\ExamC\ExC003_Div\obj\Debug\net6.0\refint\ExC003_Div.dll
+C:\Users\Пользователь\Desktop\ExamC\ExC003_Div\obj\Debug\net6.0\ExC003_Div.pdb
+C:\Users\Пользователь\Desktop\ExamC\ExC003_Div\obj\Debug\net6.0\ExC003_Div.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC003_Div\obj\Debug\net6.0\ref\ExC003_Div.dll
