@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExC004_NextRan/1.0.0": {
+        "runtime": {
+          "ExC004_NextRan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExC004_NextRan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

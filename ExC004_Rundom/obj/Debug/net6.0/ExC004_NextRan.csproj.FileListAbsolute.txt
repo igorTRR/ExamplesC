@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\ExamC\ExC004_Rundom\bin\Debug\net6.0\ExC004_NextRan.exe
+C:\Users\Пользователь\Desktop\ExamC\ExC004_Rundom\bin\Debug\net6.0\ExC004_NextRan.deps.json
+C:\Users\Пользователь\Desktop\ExamC\ExC004_Rundom\bin\Debug\net6.0\ExC004_NextRan.runtimeconfig.json
+C:\Users\Пользователь\Desktop\ExamC\ExC004_Rundom\bin\Debug\net6.0\ExC004_NextRan.dll
+C:\Users\Пользователь\Desktop\ExamC\ExC004_Rundom\bin\Debug\net6.0\ExC004_NextRan.pdb
+C:\Users\Пользователь\Desktop\ExamC\ExC004_Rundom\obj\Debug\net6.0\ExC004_NextRan.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC004_Rundom\obj\Debug\net6.0\ExC004_NextRan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\ExamC\ExC004_Rundom\obj\Debug\net6.0\ExC004_NextRan.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC004_Rundom\obj\Debug\net6.0\ExC004_NextRan.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\ExamC\ExC004_Rundom\obj\Debug\net6.0\ExC004_NextRan.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC004_Rundom\obj\Debug\net6.0\ExC004_NextRan.dll
+C:\Users\Пользователь\Desktop\ExamC\ExC004_Rundom\obj\Debug\net6.0\refint\ExC004_NextRan.dll
+C:\Users\Пользователь\Desktop\ExamC\ExC004_Rundom\obj\Debug\net6.0\ExC004_NextRan.pdb
+C:\Users\Пользователь\Desktop\ExamC\ExC004_Rundom\obj\Debug\net6.0\ExC004_NextRan.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC004_Rundom\obj\Debug\net6.0\ref\ExC004_NextRan.dll
