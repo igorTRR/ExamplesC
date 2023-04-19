@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\ExamC\ExC001\bin\Debug\net6.0\ExC001.exe
+C:\Users\Пользователь\Desktop\ExamC\ExC001\bin\Debug\net6.0\ExC001.deps.json
+C:\Users\Пользователь\Desktop\ExamC\ExC001\bin\Debug\net6.0\ExC001.runtimeconfig.json
+C:\Users\Пользователь\Desktop\ExamC\ExC001\bin\Debug\net6.0\ExC001.dll
+C:\Users\Пользователь\Desktop\ExamC\ExC001\bin\Debug\net6.0\ExC001.pdb
+C:\Users\Пользователь\Desktop\ExamC\ExC001\obj\Debug\net6.0\ExC001.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC001\obj\Debug\net6.0\ExC001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\ExamC\ExC001\obj\Debug\net6.0\ExC001.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC001\obj\Debug\net6.0\ExC001.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\ExamC\ExC001\obj\Debug\net6.0\ExC001.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC001\obj\Debug\net6.0\ExC001.dll
+C:\Users\Пользователь\Desktop\ExamC\ExC001\obj\Debug\net6.0\refint\ExC001.dll
+C:\Users\Пользователь\Desktop\ExamC\ExC001\obj\Debug\net6.0\ExC001.pdb
+C:\Users\Пользователь\Desktop\ExamC\ExC001\obj\Debug\net6.0\ExC001.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC001\obj\Debug\net6.0\ref\ExC001.dll
