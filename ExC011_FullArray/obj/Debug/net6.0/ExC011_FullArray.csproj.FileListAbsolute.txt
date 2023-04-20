@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\ExamC\ExC011_FullArray\obj\Debug\net6.0\ExC011_FullArray.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC011_FullArray\obj\Debug\net6.0\ExC011_FullArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\ExamC\ExC011_FullArray\obj\Debug\net6.0\ExC011_FullArray.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC011_FullArray\obj\Debug\net6.0\ExC011_FullArray.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\ExamC\ExC011_FullArray\obj\Debug\net6.0\ExC011_FullArray.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC011_FullArray\bin\Debug\net6.0\ExC011_FullArray.exe
+C:\Users\Пользователь\Desktop\ExamC\ExC011_FullArray\bin\Debug\net6.0\ExC011_FullArray.deps.json
+C:\Users\Пользователь\Desktop\ExamC\ExC011_FullArray\bin\Debug\net6.0\ExC011_FullArray.runtimeconfig.json
+C:\Users\Пользователь\Desktop\ExamC\ExC011_FullArray\bin\Debug\net6.0\ExC011_FullArray.dll
+C:\Users\Пользователь\Desktop\ExamC\ExC011_FullArray\bin\Debug\net6.0\ExC011_FullArray.pdb
+C:\Users\Пользователь\Desktop\ExamC\ExC011_FullArray\obj\Debug\net6.0\ExC011_FullArray.dll
+C:\Users\Пользователь\Desktop\ExamC\ExC011_FullArray\obj\Debug\net6.0\refint\ExC011_FullArray.dll
+C:\Users\Пользователь\Desktop\ExamC\ExC011_FullArray\obj\Debug\net6.0\ExC011_FullArray.pdb
+C:\Users\Пользователь\Desktop\ExamC\ExC011_FullArray\obj\Debug\net6.0\ExC011_FullArray.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC011_FullArray\obj\Debug\net6.0\ref\ExC011_FullArray.dll
