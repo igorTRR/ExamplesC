@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\ExamC\ExC010_FindPosition\bin\Debug\net6.0\ExC010_FindPosition.exe
+C:\Users\Пользователь\Desktop\ExamC\ExC010_FindPosition\bin\Debug\net6.0\ExC010_FindPosition.deps.json
+C:\Users\Пользователь\Desktop\ExamC\ExC010_FindPosition\bin\Debug\net6.0\ExC010_FindPosition.runtimeconfig.json
+C:\Users\Пользователь\Desktop\ExamC\ExC010_FindPosition\bin\Debug\net6.0\ExC010_FindPosition.dll
+C:\Users\Пользователь\Desktop\ExamC\ExC010_FindPosition\bin\Debug\net6.0\ExC010_FindPosition.pdb
+C:\Users\Пользователь\Desktop\ExamC\ExC010_FindPosition\obj\Debug\net6.0\ExC010_FindPosition.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC010_FindPosition\obj\Debug\net6.0\ExC010_FindPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\ExamC\ExC010_FindPosition\obj\Debug\net6.0\ExC010_FindPosition.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC010_FindPosition\obj\Debug\net6.0\ExC010_FindPosition.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\ExamC\ExC010_FindPosition\obj\Debug\net6.0\ExC010_FindPosition.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC010_FindPosition\obj\Debug\net6.0\ExC010_FindPosition.dll
+C:\Users\Пользователь\Desktop\ExamC\ExC010_FindPosition\obj\Debug\net6.0\refint\ExC010_FindPosition.dll
+C:\Users\Пользователь\Desktop\ExamC\ExC010_FindPosition\obj\Debug\net6.0\ExC010_FindPosition.pdb
+C:\Users\Пользователь\Desktop\ExamC\ExC010_FindPosition\obj\Debug\net6.0\ExC010_FindPosition.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\ExamC\ExC010_FindPosition\obj\Debug\net6.0\ref\ExC010_FindPosition.dll
