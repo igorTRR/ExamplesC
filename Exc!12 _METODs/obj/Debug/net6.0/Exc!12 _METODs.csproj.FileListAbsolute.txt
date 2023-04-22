@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\ExamC\Exc!12 _METODs\bin\Debug\net6.0\Exc!12 _METODs.exe
+C:\Users\Пользователь\Desktop\ExamC\Exc!12 _METODs\bin\Debug\net6.0\Exc!12 _METODs.deps.json
+C:\Users\Пользователь\Desktop\ExamC\Exc!12 _METODs\bin\Debug\net6.0\Exc!12 _METODs.runtimeconfig.json
+C:\Users\Пользователь\Desktop\ExamC\Exc!12 _METODs\bin\Debug\net6.0\Exc!12 _METODs.dll
+C:\Users\Пользователь\Desktop\ExamC\Exc!12 _METODs\bin\Debug\net6.0\Exc!12 _METODs.pdb
+C:\Users\Пользователь\Desktop\ExamC\Exc!12 _METODs\obj\Debug\net6.0\Exc!12 _METODs.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\ExamC\Exc!12 _METODs\obj\Debug\net6.0\Exc!12 _METODs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\ExamC\Exc!12 _METODs\obj\Debug\net6.0\Exc!12 _METODs.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\ExamC\Exc!12 _METODs\obj\Debug\net6.0\Exc!12 _METODs.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\ExamC\Exc!12 _METODs\obj\Debug\net6.0\Exc!12 _METODs.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ExamC\Exc!12 _METODs\obj\Debug\net6.0\Exc!12 _METODs.dll
+C:\Users\Пользователь\Desktop\ExamC\Exc!12 _METODs\obj\Debug\net6.0\refint\Exc!12 _METODs.dll
+C:\Users\Пользователь\Desktop\ExamC\Exc!12 _METODs\obj\Debug\net6.0\Exc!12 _METODs.pdb
+C:\Users\Пользователь\Desktop\ExamC\Exc!12 _METODs\obj\Debug\net6.0\Exc!12 _METODs.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\ExamC\Exc!12 _METODs\obj\Debug\net6.0\ref\Exc!12 _METODs.dll
